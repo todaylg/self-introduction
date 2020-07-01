@@ -25,4 +25,4 @@ npm run dev
 
 [Chess Piece Queen](https://sketchfab.com/3d-models/chess-piece-queen-e1bd054f088e4c928740c4989a4a3a41)
 
-If this project is helpful to you, please star it, I will be very happy~haha~!
+If this project is helpful to you, please star it, I will be very happy, haha!
