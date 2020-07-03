@@ -787,7 +787,8 @@ var OrbitControls = function (object, domElement) {
 	function onTouchStart(event) {
 		if (scope.enabled === false) return;
 
-		event.preventDefault();
+		// Let the click event emit
+		// event.preventDefault();
 
 		switch (event.touches.length) {
 			case 1:
