@@ -120,7 +120,8 @@ export default class ScenesViewer {
 			minFilter: THREE.LinearFilter,
 			magFilter: THREE.LinearFilter,
 			stencilBuffer: false,
-			depthBuffer: false
+			depthBuffer: false,
+			encoding: this.renderer.outputEncoding
 		});
 		this.postRenderTarget.texture.generateMipmaps = false;
 	}

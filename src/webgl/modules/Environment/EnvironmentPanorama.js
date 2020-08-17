@@ -46,6 +46,8 @@ export default class PanoramaEnv {
 			dataTexture.flipY = true;
 			dataTexture.needsUpdate = true;
 			this._texture = dataTexture;
+			dataTexture.magFilter = THREE.LinearFilter;
+			dataTexture.minFilter = THREE.LinearFilter;
 		};
 
 		return readInputArray(this._data);
