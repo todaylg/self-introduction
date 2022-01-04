@@ -6,7 +6,7 @@
 			</div>
 		</div>
 		<div class="textContainer animate">
-			<h2>Conact</h2>
+			<h2>Contact</h2>
 			<div>
 				<a href="https://twitter.com/WebAMV" target="_blank">
 					<span>Twitter</span>
@@ -22,10 +22,10 @@
 		<div class="textContainer animate">
 			<h2>Other</h2>
 			<div>
-				<a href="http://todaylg.com/LG-Blog-Gatsby/" target="_blank">
-					<span>Blog</span>
+				<a href="https://lgltracer.com/" target="_blank">
+					<span>Tracer</span>
 				</a>
-				<a href="https://todaylg.com/three-viewer/" target="_blank">
+				<a href="https://github.com/todaylg/three-viewer" target="_blank">
 					<span>Viewer</span>
 				</a>
 				<a href="https://todaylg.com/three-anime-sketches/index/" target="_blank">

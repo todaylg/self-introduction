@@ -15,7 +15,7 @@
 			<h1 class="loadingPercent">{{ `${Math.floor(loadingPercentNum)}%` }}</h1>
 			<p class="LG">{{ loadingText }}</p>
 		</div>
-		<p class="Tips">Use a powerful PC<s>(2080Ti above)</s> for a better experience</p>
+		<p class="Tips">Use a powerful PC<s>(3090 above)</s> for a better experience</p>
 	</section>
 </template>
 

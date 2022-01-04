@@ -16,10 +16,9 @@ const TextUniformConfig = {
 const TextConfig = {
 	mainTitle: `About !`,
 	subTitle: `Hi! You can call me Gang! 
-    I am a web front-end developer, 
-	mainly focusing on Web3D. If you also 
-	like anime or have some good ideas, please 
-    contact me for a pleasant discussion! Haha!`
+    I am a rendering engineer focusing on Web3D.
+	If you also like anime or have some good ideas, 
+	please contact me for a pleasant discussion ~`
 };
 const AnimeName = '[ One-Punch Man ]';
 

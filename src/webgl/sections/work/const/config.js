@@ -18,8 +18,8 @@ const TextUniformConfig = {
 const TextConfig = {
 	mainTitle: `Work !`,
 	subTitle: `three-viewer`,
-	content: `This is a PBR material implementation based 
-	on pre-processing by envtools. Here You can easily 
+	content: `This is a PBR material implementation
+	based on envtools. Here You can easily
 	compare and test different formulas and effects.`
 };
 
