@@ -23,7 +23,7 @@ const TextUniformConfig = {
 
 const TextConfig = {
 	mainTitle: `TODAYLG    LUGANG`,
-	subTitle: `FRONT-END & WEB3D & ANIME`
+	subTitle: `RENDERING & WEB3D & ANIME`
 };
 
 const AnimeName = '[ Final Fantasy VII ]';
